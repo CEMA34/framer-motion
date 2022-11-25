@@ -1,0 +1,20 @@
+import React from "react";
+
+
+export default function Navbar() {
+    return (
+        <header>
+            <div className="container">
+                <ul>
+                    <a className="developers" href="#"><li>Developers</li></a>
+                    <a className="motion" href="#"><li>Motion</li></a>
+                    <a href="#"><li>Handshake</li></a>
+                    <a href="#"><li>Guides</li></a>
+                    <a href="#"><li>API Documentation</li></a>
+                </ul>
+                <a className="backToFramer" href="#">Back to framer.com</a>
+            </div>
+            <hr></hr>
+        </header>
+    )
+}
