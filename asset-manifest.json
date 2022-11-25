@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/framer-motion/static/css/main.9b3962da.css",
+    "main.js": "/framer-motion/static/js/main.679492f6.js",
+    "index.html": "/framer-motion/index.html",
+    "main.9b3962da.css.map": "/framer-motion/static/css/main.9b3962da.css.map",
+    "main.679492f6.js.map": "/framer-motion/static/js/main.679492f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3962da.css",
+    "static/js/main.679492f6.js"
+  ]
+}
