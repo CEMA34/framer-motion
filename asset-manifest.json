@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/framer-motion/static/css/main.c229be45.css",
-    "main.js": "/framer-motion/static/js/main.524165b5.js",
+    "main.css": "/framer-motion/static/css/main.567ea501.css",
+    "main.js": "/framer-motion/static/js/main.84941d94.js",
     "static/media/handoff.mp4": "/framer-motion/static/media/handoff.57ff58c64d80ba784147.mp4",
     "index.html": "/framer-motion/index.html",
-    "main.c229be45.css.map": "/framer-motion/static/css/main.c229be45.css.map",
-    "main.524165b5.js.map": "/framer-motion/static/js/main.524165b5.js.map"
+    "main.567ea501.css.map": "/framer-motion/static/css/main.567ea501.css.map",
+    "main.84941d94.js.map": "/framer-motion/static/js/main.84941d94.js.map"
   },
   "entrypoints": [
-    "static/css/main.c229be45.css",
-    "static/js/main.524165b5.js"
+    "static/css/main.567ea501.css",
+    "static/js/main.84941d94.js"
   ]
 }
