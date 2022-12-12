@@ -36,7 +36,6 @@ export function useIconTransform({
   }, [planeX, scale, x, xOffset]);
 
   useMemo(() => {
-    // Transform y and scale based on planeY
     const transform = v => {
       const screenOffset = v + yOffset + 20;
       yScale.current = mapScreenYToScale(screenOffset);

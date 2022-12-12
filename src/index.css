@@ -1154,6 +1154,7 @@ input[type=number]:active{
   border-radius: 0 15px 15px 0;
   position: relative;
   border: 0.01px solid rgb(48, 48, 48,0.5);
+  overflow: hidden;
 }
 
 .gestures-circle{
