@@ -1,11 +1,18 @@
 import React from "react";
-
+import frame from "./SVG/Frame.png"
+ 
 
 export default function Navbar() {
+
+
+    
+
     return (
-        <header>
+    <header>
+        <div className="header-fixed">
             <div className="container">
                 <ul>
+                    <img className="navbar-icon" src={frame}></img>
                     <a className="developers" href="#"><li>Developers</li></a>
                     <a className="motion" href="#"><li>Motion</li></a>
                     <a href="#"><li>Handshake</li></a>
@@ -15,6 +22,7 @@ export default function Navbar() {
                 <a className="backToFramer" href="#">Back to framer.com</a>
             </div>
             <hr></hr>
-        </header>
+        </div>
+    </header>
     )
 }
