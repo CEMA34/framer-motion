@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/framer-motion/static/css/main.5bcf9447.css",
-    "main.js": "/framer-motion/static/js/main.14accca4.js",
+    "main.css": "/framer-motion/static/css/main.b4e27227.css",
+    "main.js": "/framer-motion/static/js/main.7aab4abe.js",
     "static/media/handoff.mp4": "/framer-motion/static/media/handoff.57ff58c64d80ba784147.mp4",
+    "static/media/GT-Walsheim-Regular-Oblique-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Regular-Oblique-subset.8a47b991f14f23cfd321.woff2",
+    "static/media/GT-Walsheim-Medium-Oblique-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Medium-Oblique-subset.6b8e6769553331584d95.woff2",
+    "static/media/GT-Walsheim-Black-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Black-subset.c18926f54272ab0412da.woff2",
+    "static/media/GT-Walsheim-Bold-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Bold-subset.d355f02f4e86ca30bcb9.woff2",
+    "static/media/GT-Walsheim-Regular-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Regular-subset.42903a84fa2746007d29.woff2",
+    "static/media/GT-Walsheim-Thin-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Thin-subset.d595500eabdf14a78068.woff2",
+    "static/media/GT-Walsheim-Light-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Light-subset.39bcd1a93dd24bbbd459.woff2",
+    "static/media/GT-Walsheim-Medium-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Medium-subset.a005847c566768825cdc.woff2",
+    "static/media/Input-Mono-Medium-subset.woff2": "/framer-motion/static/media/Input-Mono-Medium-subset.614f71da518957980a7f.woff2",
+    "static/media/Input-Mono-Regular-subset.woff2": "/framer-motion/static/media/Input-Mono-Regular-subset.7c9ec7890b618f706cf2.woff2",
     "index.html": "/framer-motion/index.html",
-    "main.5bcf9447.css.map": "/framer-motion/static/css/main.5bcf9447.css.map",
-    "main.14accca4.js.map": "/framer-motion/static/js/main.14accca4.js.map"
+    "main.b4e27227.css.map": "/framer-motion/static/css/main.b4e27227.css.map",
+    "main.7aab4abe.js.map": "/framer-motion/static/js/main.7aab4abe.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bcf9447.css",
-    "static/js/main.14accca4.js"
+    "static/css/main.b4e27227.css",
+    "static/js/main.7aab4abe.js"
   ]
 }
