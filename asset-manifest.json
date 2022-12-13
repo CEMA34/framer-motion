@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/framer-motion/static/css/main.22fddf3f.css",
+    "main.css": "/framer-motion/static/css/main.d6fdeddd.css",
     "main.js": "/framer-motion/static/js/main.14a1367d.js",
     "static/media/handoff.mp4": "/framer-motion/static/media/handoff.57ff58c64d80ba784147.mp4",
     "static/media/GT-Walsheim-Regular-Oblique-subset.woff2": "/framer-motion/static/media/GT-Walsheim-Regular-Oblique-subset.8a47b991f14f23cfd321.woff2",
@@ -14,11 +14,11 @@
     "static/media/Input-Mono-Medium-subset.woff2": "/framer-motion/static/media/Input-Mono-Medium-subset.614f71da518957980a7f.woff2",
     "static/media/Input-Mono-Regular-subset.woff2": "/framer-motion/static/media/Input-Mono-Regular-subset.7c9ec7890b618f706cf2.woff2",
     "index.html": "/framer-motion/index.html",
-    "main.22fddf3f.css.map": "/framer-motion/static/css/main.22fddf3f.css.map",
+    "main.d6fdeddd.css.map": "/framer-motion/static/css/main.d6fdeddd.css.map",
     "main.14a1367d.js.map": "/framer-motion/static/js/main.14a1367d.js.map"
   },
   "entrypoints": [
-    "static/css/main.22fddf3f.css",
+    "static/css/main.d6fdeddd.css",
     "static/js/main.14a1367d.js"
   ]
 }
